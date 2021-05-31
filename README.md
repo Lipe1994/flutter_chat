@@ -1,6 +1,6 @@
 # chate_com_firebase
 
-Este é um projeto para experimentar recursos do google firebase:
+# Este é um projeto para experimentar recursos do google firebase:
     - firebase database(firestore)
     - firebase file bucket
     - firebase dynamic link
@@ -10,7 +10,7 @@ Como mostrado no gitignore do app android, não expus minha api_key por meio do 
 
 O App se trata de um chat para pessoas cadastradas, usando recurso do firebase.
 
-Fontes:
+# Fontes:
     - curso da cod3r com Leonardo Leitão
     - Documentação do google firebase
 
